@@ -18,5 +18,6 @@ func Web(page *fiber.App) {
 	page.Options("/", controller.Sink)
 
 	page.Get("/checkip", controller.Homepage)
+	page.Get("/presensi", controller.GetPresensi)
 
 }
