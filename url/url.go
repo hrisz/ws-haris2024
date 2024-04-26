@@ -19,5 +19,6 @@ func Web(page *fiber.App) {
 
 	page.Get("/checkip", controller.Homepage)
 	page.Get("/presensi", controller.GetPresensi)
+	page.Get("/presensi/:id", controller.GetPresensiID) //menampilkan data presensi berdasarkan id
 
 }
