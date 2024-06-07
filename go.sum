@@ -56,8 +56,8 @@ github.com/gorilla/sessions v1.2.1/go.mod h1:dk2InVEVJ0sfLlnXv9EAgkf6ecYs/i80K/z
 github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/hashicorp/go-uuid v1.0.2/go.mod h1:6SBZvOh/SIDV7/2o3Jml5SYk/TvGqwFJ/bN7x4byOro=
-github.com/hrisz/kwetiau v0.0.3 h1:7bpLEde+3XTVbLX6b0IzUGV+uYOg66aQbUJuViewVzs=
-github.com/hrisz/kwetiau v0.0.3/go.mod h1:2Id8GzKWIqTPsFAI1iT1K3HXySIj2tXLXJdcYmn/Ctw=
+github.com/hrisz/kwetiau v0.0.4 h1:adGuCefccG7z2Sob3hWy9zA2S5kEoGDOFCwkkbJGRdU=
+github.com/hrisz/kwetiau v0.0.4/go.mod h1:2Id8GzKWIqTPsFAI1iT1K3HXySIj2tXLXJdcYmn/Ctw=
 github.com/jcmturner/aescts/v2 v2.0.0/go.mod h1:AiaICIRyfYg35RUkr8yESTqvSy7csK90qZ5xfvvsoNs=
 github.com/jcmturner/dnsutils/v2 v2.0.0/go.mod h1:b0TnjGOvI/n42bZa+hmXL+kFJZsFT7G4t3HTlQ184QM=
 github.com/jcmturner/gofork v1.0.0/go.mod h1:MK8+TM0La+2rjBD4jE12Kj1pCCxK7d2LK/UM3ncEo0o=
