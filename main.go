@@ -12,7 +12,20 @@ import (
 	"github.com/hrisz/ws-haris2024/url"
 
 	"github.com/gofiber/fiber/v2"
+	_ "github.com/hrisz/ws-haris2024/docs"
 )
+
+// @title TES SWAGGER ULBI
+// @version 1.0
+// @description This is a sample swagger for Fiber
+
+// @contact.name API Support
+// @contact.url https://github.com/hrisz
+// @contact.email projectmika@gmail.com
+
+// @host ws-haris2024-22b2408f2f8c.herokuapp.com
+// @BasePath /
+// @schemes https http
 
 func main() {
 	site := fiber.New(config.Iteung)

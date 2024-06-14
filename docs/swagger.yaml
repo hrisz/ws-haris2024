@@ -1,0 +1,15 @@
+basePath: /
+host: ws-haris2024-22b2408f2f8c.herokuapp.com
+info:
+  contact:
+    email: projectmika@gmail.com
+    name: API Support
+    url: https://github.com/hrisz
+  description: This is a sample swagger for Fiber
+  title: TES SWAGGER ULBI
+  version: "1.0"
+paths: {}
+schemes:
+- https
+- http
+swagger: "2.0"

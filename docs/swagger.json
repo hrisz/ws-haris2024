@@ -1,0 +1,20 @@
+{
+    "schemes": [
+        "https",
+        "http"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a sample swagger for Fiber",
+        "title": "TES SWAGGER ULBI",
+        "contact": {
+            "name": "API Support",
+            "url": "https://github.com/hrisz",
+            "email": "projectmika@gmail.com"
+        },
+        "version": "1.0"
+    },
+    "host": "ws-haris2024-22b2408f2f8c.herokuapp.com",
+    "basePath": "/",
+    "paths": {}
+}
